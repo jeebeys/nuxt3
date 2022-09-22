@@ -1,4 +1,7 @@
 {
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "private": true,
   "scripts": {
     "build": "nuxt build",
